@@ -1,0 +1,1 @@
+const btn2=document.querySelector(".hidden--btn2");
